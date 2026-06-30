@@ -1,252 +1,124 @@
-<div align="center">
+█══════════════════════════════════════█
+        Animated Banner
+█══════════════════════════════════════█
 
-# 👋 Hi, I'm Praveen Kumar
+👋 Hero Section
+Typing Animation
+Social Badges
+Visitor Counter
 
-### 🚀 Full Stack MERN Developer | AI Enthusiast | B.Tech CSE (AI & Data Science)
+──────────────────────────────────────
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Building+Scalable+Web+Applications;AI+Powered+Projects;Open+Source+Learner;Always+Learning+New+Technologies"/>
+💫 About Me
+(with glassmorphism code card)
 
-<img src="https://komarev.com/ghpvc/?username=Praveenkumar-in&label=Profile%20Views&color=8B5CF6&style=for-the-badge"/>
+──────────────────────────────────────
 
-</div>
+🚀 Currently Building
+• HireX AI
+• AI Agents
+• Open Source
+• Full Stack SaaS
 
----
+──────────────────────────────────────
 
-# 💫 About Me
+🧠 Tech Universe
+(animated icons arranged beautifully)
 
-```js
-const praveen = {
-    education: "B.Tech CSE (AI & Data Science)",
-    college: "VISTAS, Chennai",
+Frontend
+Backend
+Database
+Cloud
+AI
+Tools
+Languages
 
-    role: "Full Stack MERN Developer",
+──────────────────────────────────────
 
-    currentlyLearning: [
-        "AI Agents",
-        "LLMs",
-        "System Design",
-        "Cloud"
-    ],
+🔥 Featured Projects
+(Card Style)
 
-    technologies: [
-        "React",
-        "Node",
-        "Express",
-        "MongoDB"
-    ],
+╭──────────────────────────╮
+│ 🤖 HireX                 │
+│ AI Recruitment Platform  │
+│ React • Node • MongoDB   │
+│ Live │ Code              │
+╰──────────────────────────╯
 
-    hobbies: [
-        "Building Projects",
-        "Learning AI",
-        "Open Source"
-    ]
-}
-```
+╭──────────────────────────╮
+│ 🛒 Ecommerce             │
+│ Stripe + JWT             │
+╰──────────────────────────╯
 
-💻 Passionate about building scalable web applications.
+╭──────────────────────────╮
+│ 📱 Instagram Clone       │
+╰──────────────────────────╯
 
-🚀 Love developing AI-powered products.
+╭──────────────────────────╮
+│ 🎫 Complaint Portal      │
+╰──────────────────────────╯
 
-🌱 Currently exploring AI Agents & LLM Applications.
+──────────────────────────────────────
 
-⚡ Always learning modern technologies.
+📈 GitHub Analytics
 
----
+Stats
+Streak
+Languages
+Contribution Graph
 
-# 🚀 Tech Stack
+──────────────────────────────────────
 
-### Languages
+🏆 Achievements
 
-<p>
+GitHub Trophy
 
-<img src="https://skillicons.dev/icons?i=javascript,python,java,html,css"/>
+──────────────────────────────────────
 
-</p>
+📚 Currently Learning
 
-### Frontend
+AI Agents
+LangChain
+LLMs
+Docker
+AWS
 
-<p>
+──────────────────────────────────────
 
-<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind"/>
+💻 Daily Workflow
 
-</p>
+Coffee ☕
+↓
 
-### Backend
+Code 💻
+↓
 
-<p>
+Debug 🐞
+↓
 
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+Deploy 🚀
 
-</p>
+↓
 
-### Database
+Repeat 🔁
 
-<p>
+──────────────────────────────────────
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+🌎 Connect
 
-</p>
+LinkedIn
+Portfolio
+Mail
+GitHub
 
-### Authentication
+──────────────────────────────────────
 
-- JWT
-- Clerk Authentication
+🐍 Contribution Snake
 
-### Tools
+──────────────────────────────────────
 
-<p>
+💭 Favorite Quote
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+──────────────────────────────────────
 
-</p>
-
-### Deployment
-
-- Vercel
-- Render
-- Netlify
-
----
-
-# 🔥 Current Focus
-
-🟣 AI Applications
-
-🟣 MERN Stack
-
-🟣 REST APIs
-
-🟣 Authentication
-
-🟣 Socket.io
-
-🟣 AI Resume Analysis
-
-🟣 Open Source
-
----
-
-# 🚀 Featured Projects
-
-## 🤖 HireX — AI Powered Job Portal
-
-> AI-powered recruitment platform with ATS Resume Analysis and AI Career Assistant.
-
-**Tech**
-
-React • Node • Express • MongoDB • Clerk • Ollama AI
-
----
-
-## 🛒 Full Stack E-Commerce
-
-Complete MERN E-Commerce Platform with
-
-- JWT Authentication
-- Payment Gateway
-- Product Management
-- Admin Dashboard
-
----
-
-## 📱 Instagram Clone
-
-Responsive React Instagram Clone
-
-- React
-- JSON Server
-- Component Architecture
-
----
-
-## 🏫 Complaint Management System
-
-Students can submit complaints securely.
-
-✔ JWT Authentication
-
-✔ Role Based Access
-
-✔ REST APIs
-
-✔ MySQL
-
----
-
-## 🎟 Smart Queue Management
-
-Real-time queue management system for colleges.
-
-✔ Token Generation
-
-✔ Live Queue
-
-✔ Socket.io
-
-✔ SMS Notification
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Praveenkumar-in&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkumar-in&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Praveenkumar-in&theme=tokyonight"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveenkumar-in&theme=tokyo-night"/>
-
----
-
-# 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Praveenkumar-in&theme=tokyonight&margin-w=15&margin-h=15"/>
-
----
-
-# 🌎 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/Praveenkumar-in">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://linkedin.com/in/praveenkumar65">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:praveenkumarxofficial@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
-
----
-
-# 💡 Quote
-
-> "Code. Learn. Build. Repeat."
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile ⭐
-
-</div>
+Footer Animation
