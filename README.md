@@ -8,11 +8,9 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Praveenkumar-in&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/Praveenkumar-in?logo=github&style=for-the-badge&color=8A2BE2"/>
-
-<img src="https://img.shields.io/github/stars/Praveenkumar-in?style=for-the-badge&logo=github&color=8A2BE2"/>
+<img src="https://komarev.com/ghpvc/?username=Praveenkumar-in&label=Profile+Views&color=8A2BE2&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/Praveenkumar-in?style=for-the-badge&logo=github&color=8A2BE2"/>
+  <img src="https://img.shields.io/github/stars/Praveenkumar-in?style=for-the-badge&logo=github&color=8A2BE2"/>
 
 </div>
 
