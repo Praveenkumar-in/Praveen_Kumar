@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;AI+%26+Data+Science+Student;Building+Scalable+Web+Applications;Always+Learning+Something+New+🚀" />
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=8A2BE2&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Praveenkumar-in&label=Profile+Views&color=8A2BE2&style=for-the-badge"/>
 
 </div>
 
