@@ -165,7 +165,7 @@ hobbies: [
 
 </p>
 
----
+
 
 ## 🗄 Database
 
@@ -175,7 +175,7 @@ hobbies: [
 
 </p>
 
----
+
 
 ## ☁ Cloud & Deployment
 
@@ -185,7 +185,7 @@ hobbies: [
 
 </p>
 
----
+
 
 ## 🛠 Tools
 
@@ -195,7 +195,7 @@ hobbies: [
 
 </p>
 
----
+
 
 ## ⚡ Other Technologies
 
