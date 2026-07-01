@@ -589,7 +589,7 @@ Building something awesome 🚀
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=8A2BE2&center=true&width=700&lines=Thanks+for+visiting+my+profile!;Happy+Coding!+💜;Let's+Build+Something+Awesome!;See+You+Again!+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=8A2BE2&center=true&width=700&lines=Thanks+for+visiting+my+profile!;Happy+Coding!+💜;Let's+Build+Something+Awesome!;See+You+Again!"/>
 
 </div>
 
