@@ -20,75 +20,49 @@
 
 # 💫 About Me
 
-```javascript
-const praveen = {
+class Praveen {
 
-name: "Praveen Kumar",
+    String name = "Praveen Kumar";
+    String location = "Chennai, India";
+    String education = "B.Tech CSE (AI & Data Science)";
+    String college = "VISTAS";
 
-location: "Chennai, India",
+    String role = "Java Full Stack Developer";
 
-education: "B.Tech CSE (AI & Data Science)",
+    String[] specialization = {
+        "Java",
+        "Spring Boot",
+        "REST APIs",
+        "System Design",
+        "MERN Stack"
+    };
 
-college: "VISTAS",
+    String[] currentlyLearning = {
+        "Spring Boot",
+        "Advanced Java",
+        "Data Structures & Algorithms",
+        "Microservices",
+        "Cloud & DevOps"
+    };
 
-role: "Full Stack Web Developer",
+    String[] askMeAbout = {
+        "Java",
+        "Spring Boot",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "REST APIs",
+        "JWT",
+        "Git & GitHub"
+    };
 
-specialization: [
-"MERN Stack",
-"REST APIs",
-"Socket.io",
-"AI Integration",
-"System Design"
-],
-
-currentlyLearning: [
-
-"Advanced MERN",
-
-"Artificial Intelligence",
-
-"Cloud",
-
-"DevOps"
-
-],
-
-askMeAbout: [
-
-"React",
-
-"Node.js",
-
-"MongoDB",
-
-"Express",
-
-"JavaScript",
-
-"Python",
-
-"JWT",
-
-"Clerk",
-
-"REST APIs"
-
-],
-
-hobbies: [
-
-"Building Projects",
-
-"Learning",
-
-"Open Source",
-
-"Problem Solving"
-
-]
-
+    String[] hobbies = {
+        "Building Projects",
+        "Learning New Technologies",
+        "Open Source",
+        "Problem Solving"
+    };
 }
-```
 
 ---
 
