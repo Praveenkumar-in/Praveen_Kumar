@@ -215,10 +215,10 @@ hobbies: [
 
 ---
 
-## 📈 GitHub Activity Graph
+## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveenkumar-in&theme=tokyo-night&hide_border=true" />
+  <img src="https://metrics.lecoq.io/Praveenkumar-in?template=classic&isocalendar=1&languages=1&base=header%2Cactivity&config.timezone=Asia%2FKolkata" />
 </p>
 
 ---
