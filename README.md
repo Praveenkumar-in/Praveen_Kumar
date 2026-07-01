@@ -135,7 +135,7 @@ class Praveen {
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,springboot"/>
 
 </p>
 
